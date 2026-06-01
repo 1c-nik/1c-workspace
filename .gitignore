@@ -1,0 +1,11 @@
+# Клиентские проекты — все в одной папке
+clients/
+
+# Прочие рабочие папки (не часть workspace-скелета)
+analitycs/
+forAgents/
+oneScriptProjects/
+products/
+tmp/
+validation/
+.claude/
