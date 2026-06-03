@@ -8,11 +8,11 @@
 
 Развертывание рабочего места выполняется одной командой. Вы можете склонировать репозиторий в **любую удобную папку** на вашем компьютере. 
 
-Откройте терминал (Git Bash или PowerShell) и выполните:
+
 
 ```powershell
 # Клонируем репозиторий вместе со всеми подмодулями скиллов
-git clone --recurse-submodules [https://github.com/1c-nik/1c-workspace.git](https://github.com/1c-nik/1c-workspace.git) "Путь\К\Вашей\Папке"
+git clone --recurse-submodules https://github.com/1c-nik/1c-workspace.git "Путь\К\Вашей\Папке"
 
 # Переходим в созданную папку
 cd "Путь\К\Вашей\Папке"
